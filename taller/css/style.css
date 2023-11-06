@@ -1,0 +1,93 @@
+.perfil{
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.imgPersonal{
+    border-radius: 10px;
+    width: 350px;
+}
+
+
+.imgLogo{
+    width: 60px;
+    margin-left: 50px;
+    height: 60px;
+}
+
+.navbar{
+    background-color: black !important;
+}
+
+.cardExp{
+    width: 40%;
+}
+
+.navbar a{
+    color: white !important;
+
+}
+
+
+.navbar a:hover{
+    color: rgb(150, 23, 150) !important;
+}
+
+b:hover{
+    color: rgb(150, 23, 150) !important;
+}
+
+.btn{
+    border-radius: 10px;
+}
+
+.btn:hover{
+    background-color:rgb(183, 59, 183);
+    transition: .5s;
+}
+
+.imgPersonal:hover{
+    width: 360px;
+    color: rgb(183, 59, 183);
+    transition: .5s;
+}
+
+.h1Experiencia{
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 50px;
+    padding-top: 50px;
+}
+
+#habilidades{
+    padding-top: 100px;
+}
+
+#virtudes{
+    padding-top: 50px;
+}
+
+h1:hover{
+    color: rgb(150, 23, 150);
+    transition: .5s;
+}
+
+.virtudes{
+    border: 1px solid black;
+    padding: 10px;
+}
+
+.card{
+    display: flexbox;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.containerPerfil{
+    padding-top: 120px;
+}
+
+footer{
+    background-color: black !important;
+}
